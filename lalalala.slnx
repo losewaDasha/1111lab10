@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../12/12.vcxproj" />
+  <Project Path="../losewa/losewa.vcxproj" />
+  <Project Path="lalalala.vcxproj" />
+</Solution>
